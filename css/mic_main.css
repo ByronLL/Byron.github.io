@@ -4324,10 +4324,10 @@
 		position:absolute;
 		font-size: 2rem;
 		font-weight: bold;
-		text-shadow:6px 5px 10px #000;
+		text-shadow:6px 5px 10px rgb(218, 168, 168);
 		bottom:2px;
 		padding-left: 5%;
-		color:#eeeeee;
+		color:#000;
 	}
 	.page_title h3{
 		position:absolute;
